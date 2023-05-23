@@ -45,6 +45,7 @@ Before proceeding with the installation, ensure that you have the following:
    - In the Chrome browser, click on the three vertical dots in the top-right corner to open the Chrome menu.
    - From the menu, go to **More Tools > Extensions**. This will open the Extensions page.
    - Alternatively enter the following line into the Chrome address bar:
+   
    ```
    chrome://extensions/
    ```
