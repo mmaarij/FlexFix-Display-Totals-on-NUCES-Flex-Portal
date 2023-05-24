@@ -2,7 +2,7 @@
 
 Flex fix allows you to display the total and obtained absolutes on the FAST NUCES Flex Student Portal. The grand total is usually blank and therefore, this extention enables you to see your progress without having to manually total your marks.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 # FlexFix Chrome Extention - Manual Installation Guide
 
