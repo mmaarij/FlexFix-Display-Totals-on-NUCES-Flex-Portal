@@ -1,6 +1,6 @@
 {
   "name": "FlexFix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "Displays the total and obtained absolutes on the FAST NUCES Flex Student Portal",
   "homepage_url": "http://github.com/mmaarij",
