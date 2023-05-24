@@ -19,7 +19,7 @@ Before proceeding with the installation, ensure that you have the following:
 1. Clone the extension repository:
 
    ```
-   git clone https://github.com/NabeelAhmed-090/FlexFix-Display-Totals-On-Flex-NUCES-Portal.git
+   git clone https://github.com/mmaarij/FlexFix-Display-Totals-On-Flex-NUCES-Portal.git
    ```
 
    **OR**
